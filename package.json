@@ -1,0 +1,26 @@
+{
+  "name": "imagen",
+  "version": "1.0.0",
+  "description": "draw dom with canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moldray/imagen.git"
+  },
+  "keywords": [
+    "canvas",
+    "dom"
+  ],
+  "author": "moldray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moldray/imagen/issues"
+  },
+  "homepage": "https://github.com/moldray/imagen#readme",
+  "dependencies": {
+    "qrcode": "^1.2.0"
+  }
+}
